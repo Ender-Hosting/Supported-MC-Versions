@@ -1,5 +1,5 @@
 ---
-description: We will get you all sorted out and back to Discord!
+description: 'If you are in GitBook, ignore this page.'
 ---
 
 # Staff Help
