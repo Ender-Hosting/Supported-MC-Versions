@@ -4,9 +4,9 @@
 
 ## Resources
 
-* [Online Resources](resources/online-resources.md)
-* [Calendar.com](resources/calendar.com.md)
-* [Github.com](resources/github.com.md)
+* [Online Resources](resources/online-resources/README.md)
+  * [Calendar](https://www.calendar.com/paperhosting/)
+  * [GitHub](https://github.com/Paper-Hosting/Supported-MC-Versions)
 
 ## Discord Bots
 
